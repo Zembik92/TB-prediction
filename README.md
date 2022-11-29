@@ -18,7 +18,7 @@ Requirements
 
 
 Process
-* Once the dataset is downoaded, extract the images contained in the Kaggle compressed folder to the environment to be used for the simulation.
+* Once the dataset is downloaded, extract the images contained in the Kaggle compressed folder to the environment to be used for the simulation.
 * Load the relevant Jupyter Notebooks in the Python environment to be used for the simulation.
 * Amend the lines of code referencing the location \ path to the extracted Kaggle data.
 * Run the code
